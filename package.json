@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~8.2.8",
     "@angular/platform-browser-dynamic": "~8.2.8",
     "@angular/router": "~8.2.8",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "ngx-embed-video": "^1.0.4",
     "ngx-youtube-player": "^7.1.1",
     "rxjs": "~6.4.0",
